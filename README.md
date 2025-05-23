@@ -1,6 +1,6 @@
 Corrección de Diagramas UML – Sistema de Reserva de Salas
-Nombre: Francisco Zamorano
-Sección: [Tu sección]
+Nombre: Francisco Zamorano y Jesús Vidal
+Sección: [1, Jesús es de la segunda pero el dia de hoy 23 de mayo Jesús se ingreso a la seccion 1 por el dia de hoy]
 Fecha: 23 de mayo de 2025
 # 1. Diagrama de Casos de Uso
 ## Error 1
